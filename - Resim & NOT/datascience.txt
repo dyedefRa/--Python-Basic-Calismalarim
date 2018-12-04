@@ -1,0 +1,2 @@
+corr'larý oto olarak kucukten buyuge dogru sýralayan kod=>
+pokeData.corr().unstack().sort_values().drop_duplicates()

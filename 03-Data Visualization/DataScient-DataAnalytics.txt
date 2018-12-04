@@ -1,0 +1,14 @@
+"""
+DATA SCIENTIST 
+-Pattern yada model bulmak için datayý inceler
+-Machine learning,statistic ve algoritmalarý bilir
+-Geçmiþe dayalý veriler ile gelecek tahmin yapar
+-Yeni machine learning ve analitik metodlar geliþtirir
+-Python, math(statistic),machine learning and visualization'a hakimdir
+
+DATA ANALYTICS
+-Bir problemi çözmek ve sonuç çýkarmak için datayý inceler
+-Datayý elde eder,iþler ve özetler
+-Farklý raporlama teknikleri ile veri raporlarý yaratýr
+-Python,m ath(statistic) and visualization bilir.
+"""

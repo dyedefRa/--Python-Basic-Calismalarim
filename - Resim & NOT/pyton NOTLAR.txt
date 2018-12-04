@@ -1,0 +1,8 @@
+--------------dir()-------------------
+dir(int) yada dir(list) yada dir(3) yani 
+dir() in içine nesne yada tip atýp console da çalýþtýrýrsan o nesneye ait default fonksiyonlarý sana gösterir.
+
+burada bir suru fonksiyon cýkar. ve bu fonksiyonlarýn ne iþe yaradýgýný ogrenmek ýstýyorsan
+
+CONSOLE'da
+help(list.append) €€
